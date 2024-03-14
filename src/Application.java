@@ -11,5 +11,8 @@ public class Application {
         // branch-2 rebased
 
         System.out.println("fifth - form master");
+
+        System.out.println("first - from branch-3");
+        System.out.println("second - from branch-3");
     }
 }
