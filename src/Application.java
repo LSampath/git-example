@@ -6,5 +6,6 @@ public class Application {
         System.out.println("second - from master");
         System.out.println("third - from master");
         // branch-1 merged
+        System.out.println("fourth - from master");
     }
 }
