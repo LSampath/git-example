@@ -14,5 +14,8 @@ public class Application {
 
         System.out.println("first - from branch-3");
         System.out.println("second - from branch-3");
+        // branch-3 rebased
+
+        System.out.println("sixth - from master");
     }
 }
