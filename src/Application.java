@@ -8,5 +8,7 @@ public class Application {
         // branch-1 merged
         System.out.println("first - from branch 2");
         System.out.println("fourth - from master");
+
+        System.out.println("first - from branch-3");
     }
 }
