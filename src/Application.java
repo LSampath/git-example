@@ -17,5 +17,6 @@ public class Application {
 
         // new branch
         System.out.println("first - from branch 4");
+        System.out.println("second - from branch 4");
     }
 }
