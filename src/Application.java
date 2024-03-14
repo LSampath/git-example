@@ -10,5 +10,6 @@ public class Application {
         System.out.println("fourth - from master");
 
         System.out.println("first - from branch-3");
+        System.out.println("second - from branch-3");
     }
 }
